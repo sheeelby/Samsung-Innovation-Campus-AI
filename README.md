@@ -11,6 +11,4 @@ The purpose of the repository is to demonstrate the studied skills and develop c
 
 The course is available to students of partner universities of the **Samsung Innovation Campus** project.
 
-![Uploading image.png…]()
-
-
+![image](https://github.com/user-attachments/assets/d16bf2aa-558e-4e71-87bb-45e282157cb9)
