@@ -1,4 +1,4 @@
-# Samsung Innovation Campus (Artificial Intelligence)
+# Samsung Innovation Campus (Artificial Intelligence) 2024-2025
 
 This repository contains materials and projects completed as part of the **Samsung Innovation Campus** course on AI. Includes:
 
