@@ -9,6 +9,6 @@ This repository contains materials and projects completed as part of the **Samsu
 
 The purpose of the repository is to demonstrate the studied skills and develop competencies in the field of AI, including working with neural networks, computer vision, natural language processing and other relevant areas.
 
-The course is available to students of partner universities of the Samsung Innovation Campus project.
+The course is available to students of partner universities of the **Samsung Innovation Campus** project.
 
 
