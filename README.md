@@ -11,4 +11,3 @@ The purpose of the repository is to demonstrate the studied skills and develop c
 
 The course is available to students of partner universities of the **Samsung Innovation Campus** project.
 
-![Логотип](C:\Users\Admin\Desktop\ML\MachineLearning\artificial_intelligence.jpg)
